@@ -39,6 +39,26 @@
           "link": "https://example.com/movetitle2/episode6"
         }
       ]
+    },
+     {
+      "title": "Move Title 3",
+      "episodes": [
+        {
+          "title": "Episode 4",
+          "number": 4,
+          "link": "https://example.com/movetitle2/episode4"
+        },
+        {
+          "title": "Episode 5",
+          "number": 5,
+          "link": "https://example.com/movetitle2/episode5"
+        },
+        {
+          "title": "Episode 6",
+          "number": 6,
+          "link": "https://example.com/movetitle2/episode6"
+        }
+      ]
     }
   ],
   "series": [
