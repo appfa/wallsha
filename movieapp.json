@@ -1,9 +1,9 @@
 {
   "moves": [
     {
-      "title": "Move Title 1",
-      "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
-      "image": "https://i.pinimg.com/564x/94/34/f9/9434f95fd5100bfbc8a3e1ea487006f3.jpg",
+      "title": "No time to die",
+      "Description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+      "image": "https://i.pinimg.com/564x/06/6f/6a/066f6ac7c266bc906ae1b748bec9a5e5.jpg",
       "episodes": [
         {
           "title": "Episode 1",
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "title": "Move Title 2",
-       "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
-      "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
+      "title": "Mr jones",
+       "Description": "A Welsh journalist breaks the news in the western media of the famine in Ukraine in the early 1930s.",
+      "image": "https://i.pinimg.com/564x/8e/30/3e/8e303e25c7c54fc9b24fa3c6327c7731.jpg",
       "episodes": [
         {
           "title": "Episode 4",
@@ -47,7 +47,7 @@
      {
       "title": "Move Title 3",
       "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
-      "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
+      "image": "https://i.pinimg.com/564x/67/29/17/672917768ea26bdf4235647effa64b74.jpg",
       "episodes": [
         {
           "title": "Episode 4",
@@ -69,8 +69,8 @@
   ],
   "series": [
     {
-      "title": "Series Title 1",
-      "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
+      "title": "YOU 3",
+      "Description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
       "image": "https://i.pinimg.com/564x/43/b2/8e/43b28e0d0a17500db07e2bdadf086b37.jpg",
       "episodes": [
         {
@@ -91,8 +91,8 @@
       ]
     },
     {
-      "title": "Series Title 2",
-      "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
+      "title": "YOU 4",
+      "Description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
       "image": "https://i.pinimg.com/564x/52/00/86/5200869b847ee5ebf228e85414997373.jpg",
       "episodes": [
         {
@@ -109,6 +109,28 @@
           "title": "Episode 6",
           "number": 6,
           "link": "https://example.com/seriestitle2/episode6"
+        }
+      ]
+    },
+     {
+      "title": "stranger things",
+      "Description": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+      "image": "https://i.pinimg.com/564x/94/34/f9/9434f95fd5100bfbc8a3e1ea487006f3.jpg",
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "number": 1,
+          "link": "https://example.com/seriestitle1/episode1"
+        },
+        {
+          "title": "Episode 2",
+          "number": 2,
+          "link": "https://example.com/seriestitle1/episode2"
+        },
+        {
+          "title": "Episode 3",
+          "number": 3,
+          "link": "https://example.com/seriestitle1/episode3"
         }
       ]
     }
