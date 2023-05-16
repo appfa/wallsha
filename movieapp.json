@@ -2,6 +2,7 @@
   "moves": [
     {
       "title": "Move Title 1",
+      "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
       "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
@@ -23,6 +24,7 @@
     },
     {
       "title": "Move Title 2",
+       "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
       "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
@@ -44,6 +46,7 @@
     },
      {
       "title": "Move Title 3",
+      "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
       "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
@@ -67,6 +70,7 @@
   "series": [
     {
       "title": "Series Title 1",
+      "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
       "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
@@ -88,6 +92,7 @@
     },
     {
       "title": "Series Title 2",
+      "Description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of December 2022, GoDaddy has",
       "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
