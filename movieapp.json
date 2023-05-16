@@ -2,6 +2,7 @@
   "moves": [
     {
       "title": "Move Title 1",
+      "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
           "title": "Episode 1",
@@ -22,6 +23,7 @@
     },
     {
       "title": "Move Title 2",
+      "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
           "title": "Episode 4",
@@ -42,6 +44,7 @@
     },
      {
       "title": "Move Title 3",
+      "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
           "title": "Episode 4",
@@ -64,6 +67,7 @@
   "series": [
     {
       "title": "Series Title 1",
+      "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
           "title": "Episode 1",
@@ -84,6 +88,7 @@
     },
     {
       "title": "Series Title 2",
+      "image": "https://i.pinimg.com/474x/d7/a5/7e/d7a57ed4f937ff0f87404d72f149766b.jpg",
       "episodes": [
         {
           "title": "Episode 4",
