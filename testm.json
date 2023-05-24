@@ -1,0 +1,60 @@
+{
+  "ads": {
+        "admob": {
+            "bannerIds": [
+                "ca-app-pub-3940256099942544/6300978111"
+            ],
+            "interIds": [
+                "ca-app-pub-5122909812015815/5589819479"
+            ],
+            "nativeIds": [
+                "ca-app-pub-3940256099942544/2247696110"
+            ],
+            "rewardIds": [
+                "ca-app-pub-3940256099942544/5224354917"
+            ]
+        },
+        "applovin": {
+            "sdk_key": "_rmyAh_9byxgUv3ZpzDO9E6bRF1HK7tsBrdtuc8vAnu3Fi90iIDKVo3xXlwwapKw0tsgtMKnbTnFk2oX0F",
+            "bannerId": " ",
+            "interId": " ",
+            "nativeId": "",
+            "rewardId": " "
+        },
+        "ironsource": {
+            "appkey": "85460dcd"
+        },
+        "unity": {
+            "gameId": "4549113",
+            "bannerIds": [
+                "Banner_Android"
+            ],
+            "interIds": [
+                "Interstitial_Android"
+            ],
+            "rewardIds": [
+                "Rewarded_Android"
+            ]
+        },
+        "fan": {
+            "bannerIds": [
+                "IMG_16_9_APP_INSTALL#1587134361639957_1593182061035187"
+            ],
+            "interIds": [
+                "VID_HD_9_16_39S_APP_INSTALL#919241315399859_919241352066522"
+            ],
+            "rewardIds": [
+                "VID_HD_9_16_39S_APP_INSTALL#919241315399859_919241362066521"
+            ],
+            "nativeIds": [
+                "VID_HD_9_16_39S_APP_INSTALL#919241315399859_919241978733126"
+            ]
+        },
+        "settings": {
+            "banners": "admob",
+            "inters": "admob",
+            "nativees": "fan",
+            "rewards": "admob"
+        }
+    }
+}
