@@ -6658,8 +6658,8 @@
  ],
  "ads": {
         "admob": {
-            "bannerstatus": "1",
-            "interstatus": "1",
+            "bannerstatus": 1,
+            "interstatus": 1,
             "bannerIds": [
                 "ca-app-pub-3566489585909846/4613844809"
             ],
