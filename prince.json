@@ -1,10 +1,10 @@
  {
-	"rstate": 0,
-	"istate": 0,
+	"rstate": 1,
+	"istate": 1,
 	"reward": "ca-app-pub-3940256099942544/5224354917",
-	"interstitial": "ca-app-pub-3940256099942544/1033173712",
-	 "opena": "bca-app-pub-3940256099942544/3419835294",
-	 "banner": "bca-app-pub-3940256099942544/6300978111",
+	"interstitial": "ca-app-pub-7065585002437197/7208645526",
+	 "opena": "ca-app-pub-7065585002437197/1015552510",
+	 "banner": "ca-app-pub-7065585002437197/8251878856",
 	 	"images": [
 			    "https://drive.google.com/uc?export=view&id=1rXUW2izyptQHZR62M44CWTXZv3kaq0ds",
 			"https://drive.google.com/uc?export=view&id=1oGywEZgr85RBjfOHUHnvGlbLomilAuBo",
