@@ -1,9 +1,22 @@
 {
 	"istate": 1,
-	"interstitial": "bca-app-pub-3940256099942544/1033173712",
-	 "opena": "bca-app-pub-3940256099942544/3419835294",
-	 "banner": "bca-app-pub-3940256099942544/6300978111",
+	"interstitial": "ca-app-pub-9395245375220768/7025319680",
+	 "opena": "ca-app-pub-9395245375220768/9016560951",
+	 "banner": "ca-app-pub-9395245375220768/8178619253",
 	"images": [
-"https://i.pinimg.com/236x/03/32/c1/0332c184fd2b3cd55141dec33fe77f9c.jpg"
+"https://i.pinimg.com/236x/03/32/c1/0332c184fd2b3cd55141dec33fe77f9c.jpg",
+"https://i.pinimg.com/236x/fc/4f/f5/fc4ff58a207af7447a944256f01562de.jpg",
+"https://i.pinimg.com/236x/b1/53/49/b153497544d7b3d89bbf8a475ee2b9e1.jpg",
+"https://i.pinimg.com/236x/8f/03/5b/8f035b23d08e154ee394be3f44d088b6.jpg",
+"https://i.pinimg.com/236x/ef/c6/9b/efc69b1664e6f3e239a61630f420b484.jpg",
+"https://i.pinimg.com/236x/77/93/00/779300acb81453998057789ed044293f.jpg",
+"https://i.pinimg.com/236x/93/c1/cb/93c1cb99e13174cbb235cef558f41d99.jpg",
+"https://i.pinimg.com/236x/36/5a/5f/365a5fbb41beac3fa5b2e4f19876da5f.jpg",
+"https://i.pinimg.com/236x/79/67/9a/79679ad7d45377fa7289a5979cd1671a.jpg",
+"https://i.pinimg.com/236x/64/63/8c/64638c56f95441de1cfa74f9378c2ddf.jpg",
+"https://i.pinimg.com/236x/24/69/bc/2469bccae2c71e8dd00bc5dc88fac461.jpg",
+"https://i.pinimg.com/236x/ab/5a/34/ab5a341dc7d7e06760ddefccd0fcbe6a.jpg",
+"https://i.pinimg.com/236x/66/c3/14/66c314d76f0140547007490ea763d3b7.jpg",
+"https://i.pinimg.com/236x/3a/e8/95/3ae89570c1327ede43faaaa6e8bb9ab8.jpg"
 	]
 }
