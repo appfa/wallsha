@@ -16,8 +16,8 @@
 			]
 		},
 		"applovin": {
-			"sdk_key": "",
-			"openAdsIds": "",
+			"sdk_key": "g83IZFbht6VmJte9CtZPKEyIgV25xxC4raBLwXrNUZnuAdO_rve6zebIQ-CoVKI3zSXhkExTygEV3pUTBemQEI",
+			"openAdsIds": "3dc08236d25b0c5b",
 			"bannerId": "",
 			"interId": "",
 			"nativeId": "",
@@ -67,3 +67,4 @@
 		"developer": "https://play.google.com"
 	}
 }
+
